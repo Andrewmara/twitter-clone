@@ -3,3 +3,7 @@ html,body {
     height: 100%;
   }
   
+  @font-face {
+    font-family: 'chirp-light';
+    src: url('../assets/font/chirp/chirp_light.otf');
+  }
